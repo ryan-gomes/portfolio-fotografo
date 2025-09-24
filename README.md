@@ -1,2 +1,2 @@
 # portfolio-fotografo
-Meu site de portfólio como fotóografo
+Meu site de portfólio como fotógrafo
